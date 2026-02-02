@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @copsicle
-- 👀 I’m interested in embedded and electronics development.
-- 🌱 I’m currently learning electronic board design.
+- 👀 I’m interested in network engineering.
